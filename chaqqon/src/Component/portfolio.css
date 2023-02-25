@@ -1,0 +1,19 @@
+.RatePplanTitle{
+    padding-top: 50px;
+}
+.RatePplanTitleText{
+    padding-left: 220px;
+    font-family: 'Square721 BdEx BT [Rus by me]';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #915DFF;
+}
+.PortfolioHead{
+    display: flex;
+    justify-content: space-between;
+}
+.container{
+    padding-left: 120px;
+}

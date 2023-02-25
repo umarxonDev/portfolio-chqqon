@@ -1,0 +1,24 @@
+.SocialMendiaNumber{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.SocialTitle{
+    font-family: 'Square721 BdEx BT [Rus by me]';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    color: #915DFF;
+    padding-left: 100px;
+}
+.SocialText{
+
+    font-family: 'Square721 BdEx BT [Rus by me]';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    padding-left: 100px;
+    color: #FFFFFF; 
+}

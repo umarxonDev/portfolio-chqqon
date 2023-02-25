@@ -1,0 +1,40 @@
+.RatePplanTitle{
+    padding-top: 50px;
+}
+.RatePplanTitleText{
+    padding-left: 220px;
+    font-family: 'Square721 BdEx BT [Rus by me]';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #915DFF;
+}
+.RatePplanText{
+    padding-left: 220px;
+    font-family: 'Square721 BdEx BT [Rus by me]';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+.RatePplanHeader{
+    display: flex;
+    color: #FFFFFF;
+    padding-top: 100px;
+    margin-right: 150px;
+    align-items: center;
+    justify-content: space-between;
+}
+.RatePplanHeaderImg{
+    position: absolute;
+    left: 50px;
+}
+.Button{
+    position: absolute;
+    width: 170px;
+    height: 38px;
+    border-radius: 5px;
+    background: #915DFF;
+}

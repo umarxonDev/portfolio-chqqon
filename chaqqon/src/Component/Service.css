@@ -1,0 +1,35 @@
+.ServicesTitle{
+    padding-top: 50px;
+}
+.ServicesTitleText{
+    padding-left: 220px;
+    font-family: 'Square721 BdEx BT [Rus by me]';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #915DFF;
+}
+.Services{
+    width: 300px;
+    margin-left: 220px;
+    color: #ffff;
+    /* background-color: red; */
+    padding-top: 10px;
+}
+.Services p{
+    font-family: 'Square721 BdEx BT [Rus by me]';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+.VectorDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ServicesOne{
+    display: flex;
+}

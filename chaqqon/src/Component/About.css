@@ -1,0 +1,27 @@
+.AboutUsTitle{
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+}
+.AboutUsImg{
+    padding-left: 100px;
+    padding-right: 80px;
+}
+.AboutUsText{
+    width: 510px;
+    font-family: 'Square721 BdEx BT [Rus by me]';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.AboutUsText h1{
+    font-family: 'Square721 BdEx BT [Rus by me]';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #915DFF;
+}
